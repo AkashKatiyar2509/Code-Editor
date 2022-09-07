@@ -9,9 +9,9 @@ A user a create a new room, share room ID with other peers, work on code real ti
 Currently the Project only supports Code Editor which was implemented during the build phase of hackathon, in the future compiler can be added, other features like real time chat, video-call, etc can be added. 
 
 
-### Deployment 🌐
+<!-- ### Deployment 🌐
 
-Project is deployed on Heroku, Link to Project - <a href="https://realtime-codepair.herokuapp.com/">Code Pair</a>
+Project is deployed on Heroku, Link to Project - <a href="https://realtime-codepair.herokuapp.com/">Code Pair</a> -->
 
 ### Usage 
 
